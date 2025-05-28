@@ -1,0 +1,16 @@
+release/main.o
+release/gamewindow.o
+release/gamewidget.o
+release/gamemath.o
+release/cannon.o
+release/bullet.o
+release/fish.o
+release/fishmanager.o
+release/specialeventmanager.o
+release/moc_gamewindow.o
+release/moc_gamewidget.o
+release/moc_cannon.o
+release/moc_bullet.o
+release/moc_fish.o
+release/moc_fishmanager.o
+release/moc_specialeventmanager.o

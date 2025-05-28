@@ -1,0 +1,16 @@
+debug/main.o
+debug/gamewindow.o
+debug/gamewidget.o
+debug/gamemath.o
+debug/cannon.o
+debug/bullet.o
+debug/fish.o
+debug/fishmanager.o
+debug/specialeventmanager.o
+debug/moc_gamewindow.o
+debug/moc_gamewidget.o
+debug/moc_cannon.o
+debug/moc_bullet.o
+debug/moc_fish.o
+debug/moc_fishmanager.o
+debug/moc_specialeventmanager.o
